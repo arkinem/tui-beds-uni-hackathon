@@ -1,5 +1,6 @@
 # TUI &amp; Bedfordshire University Hackathon 2018
 
+## Theme `in resort experience`
 
 ## Basic Requirements
 
