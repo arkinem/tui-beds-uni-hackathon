@@ -18,10 +18,10 @@ Code | Name                                    | Price   | Availability
 
 As you can see - not all products and services are unlimited - availability is restricted.
 
-As a customer uses the in-resort app - the availability of the various products and services needs to be updated in real time.  So that if a product or service is no longer available this is indicated to the customer and they can no longer add that product/service to the in app basket.  This can happen at any time.
+As a customer uses the in-resort app - the availability of the various products and services needs to be updated in real time.  So that if a product or service is no longer available this is indicated to the customer and they can no longer add that product/service to the in-app basket.  This can happen at any time.
 
 When a customer successfully check's out within the app - availability is reduced accordingly.  Also, in real time.  However, you need to check the availability of each product/service in the customers basket at checkout.  If any of the products/services the customer has chosen is no longer available, you need to alert the customer and cancel the checkout process.
 
-As customers return home, or their hire duration/wedding has ended - and the product/service is returned - the availability of each product/service needs updating at this point (in real time).  Again, this can happen at any time.
+As customers return home, or their hire duration/wedding has ended - the product/service is returned to the supplier.  At this point the availability of each product/service needs updating (in real time).  This can also happen at any time.
 
-You have been asked to implement an inventory service for the above description.  It needs to include the app and the inventory service and should use a RabbitMQ, Redis or AWS SQS event messaging element to communicate between the two.
+You have been asked to implement the inventory service above.  It needs to include the app and the inventory as services and should use either: RabbitMQ, Redis or AWS SQS event messaging to communicate between the two.
