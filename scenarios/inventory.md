@@ -20,7 +20,7 @@ As you can see - not all products and services are unlimited - availability is r
 
 As a customer uses the in-resort app - the availability of the various products and services needs to be updated in real time.  So that if a product or service is no longer available this is indicated to the customer and they can no longer add that product/service to the in-app basket.  This can happen at any time.
 
-When a customer successfully check's out within the app - availability is reduced accordingly.  Also, in real time.  However, you need to check the availability of each product/service in the customers basket at checkout.  If any of the products/services the customer has chosen is no longer available, you need to alert the customer and cancel the checkout process.
+When a customer successfully checks out within the app - availability is reduced accordingly.  Also, in real time.  However, you need to check the availability of each product/service in the customers basket at checkout.  If any of the products/services the customer has chosen is no longer available, you need to alert the customer and cancel the checkout process.
 
 As customers return home, or their hire duration/wedding has ended - the product/service is returned to the supplier.  At this point the availability of each product/service needs updating (in real time).  This can also happen at any time.
 
