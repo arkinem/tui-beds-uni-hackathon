@@ -22,6 +22,6 @@ As a customer uses the in-resort app - the availability of the various products 
 
 When a customer successfully checks out within the app - availability is reduced accordingly.  Also, in real time.  However, you need to check the availability of each product/service in the customers basket at checkout.  If any of the products/services the customer has chosen is no longer available, you need to alert the customer and cancel the checkout process.
 
-As customers return home, or their hire duration/wedding has ended - the product/service is returned to the supplier.  At this point the availability of each product/service needs updating (in real time).  This can also happen at any time.
+As customers return home, or their hire duration/wedding has ended - the product/service is returned to the supplier.  At this point the availability of each product/service needs updating again (and again, in real time).  This can also happen at any time.
 
 You have been asked to implement the inventory service above.  It needs to include the app and the inventory as services and should use either: RabbitMQ, Redis or AWS SQS event messaging to communicate between the two.

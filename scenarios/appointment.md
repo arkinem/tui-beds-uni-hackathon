@@ -4,7 +4,9 @@ TUI have an in-resort app that can be downloaded by its customers.  This app all
 
 One of the services the app allows customers to book is an appointment with one of our in-resort representatives - or reps.
 
-This feature has proven so popular that the resort team at head office have had to devise a way to limit the number of appointments booked via this method.  On checkout within the app - the customer is required to play a game of Bulls & Cows (https://en.wikipedia.org/wiki/Bulls_and_Cows) - a precursor to the highly popular board game `mastermind`.  If the correctly guess the hidden code in 6 or less guesses they are allowed to continue to book an appointment.  Otherwise, they can no longer continue to book an appointment.  Of course, the customer can just keep trying if they choose!
+This feature has proven so popular that the resort team at head office have had to devise a way to limit the number of appointments booked via this method.  On checkout within the app - the customer is required to play a game of Bulls & Cows (https://en.wikipedia.org/wiki/Bulls_and_Cows) - a precursor to the highly popular board game `mastermind`.  
+
+If the customer cracks the hidden code in 6 or less guesses they are allowed to continue to book an appointment.  Otherwise, they cannot book an appointment.  Of course, the customer can just keep trying if they choose!
 
 You have been requested to implement the game.
 

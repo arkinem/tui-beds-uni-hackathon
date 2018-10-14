@@ -1,20 +1,14 @@
 # TUI &amp; Bedfordshire University Hackathon 2018
 
-## About TUI
+The theme for this years TUI / Bedfordshire University hackathon is `In-Resort Experience`.  In other words - based around the kinds of services and products that TUI - its in-resort suppliers and partners - supply to its customers while they are actually on holiday.
 
-TUI Travel Ltd offers a fantastic range of tailor-made holiday experiences, from hand-picked hotels, flexible flight options & much more to destinations around the world. TUI has both an online web and high-street presence.
+For several of this years scenarios - you will need the data shown in the table below.  Whilst this is typical of the kinds of in-resort products & services TUI offer (known as ancillaries) - this list has been significantly simplified and reduced.  In particular, the pricing scheme below bears no relation to the one actually in use at TUI.
 
-## The Hackathon
+Prices given here are for illustration purposes only - they do not reflect actual values.  
 
-The theme for this years TUI / Bedfordshire University hackathon will be `In-Resort Experience`.  In other words - based around the kinds of services and products that TUI - its in-resort suppliers and partners - supply to its customers while they are actually on holiday.
+The availability given (how many are available to the customer) is based on a per hotel basis.
 
-For several of this years scenarios you will need the following data.  Whilst this is typical of the kinds of in-resort ad-hoc products TUI offer (we call them ancillaries) - this list has been simplified and significantly reduced.  In particular, the actual pricing scheme differs considerably and is substantially more complex than the one shown below.  
-
-Prices given here are for illustration purposes only - they are not actual values.  
-
-The availability (how many are available) is given on per hotel basis.
-
-### In-Resort Products List
+### In-Resort Ancillaries
 
 ```bash
 Code | Name                                    | Price   | Availability
@@ -28,9 +22,17 @@ Code | Name                                    | Price   | Availability
 0007 | Sunbed Hire - 7 Days                    | £100.00 | 100
 ```
 
-This years hackathon is 1 day (24 hours) in length, so the scenarios have been reduced to reflect the duration available.  However, for those adventurous, brilliant, or plain crazy enough - the following scenarios are designed so they can be combined together: checkout + inventory, inventory + payment, or even checkout + inventory + payment!  Another option is for multiple teams to work together on all 3 of these scenarios, providing a seamless integration between them and offer a single - unified - solution.
+As this years hackathon is 1 day (24 hours) in length, the complexity of the scenarios has been reduced accordingly to reflect this change.  
 
-As always - the choice of scenario(s), tools, testing & design techniques and language(s) is yours.  
+For those adventurous, talented, exceptional, or plain crazy - the following scenarios are designed so they can be combined together:
+
+* checkout + inventory
+* inventory + payment
+* checkout + inventory + payment
+
+Another option is for multiple teams to work together on all 3 of these scenarios, providing a seamless integration between them and offer a single - unified - solution.
+
+As always - the choice of scenario(s), tools, testing & design techniques and language(s) is left to each team.  
 
 It is perfectly acceptable (even desirable) for some of the elements in your solution to be 'faked', for example: the 'app' mentioned throughout could be a simple command line program, user interactions could be randomised to simulate actual situations and so on.
 

@@ -22,12 +22,12 @@ Your service needs to request the credit card details of the customer within the
 
 The payment service will then contact the credit card issuer for authorisation.  All credit card issuers respond with one of 2 responses:
 
-* Authorised, i.e. the payment has been made on the customers credit card and the total deposited into the service providers account;
+* Authorised, i.e. the payment has been made on the customers credit card and the total deposited into the service providers account
 
-* Failure, i.e. there is insufficient funds in the customers account, or the addition of the funds into the service providers account failed.  You can assume there are no other causes of failure (e.g. communications, device failure).
+* Failure, i.e. there is insufficient funds in the customers account, or the addition of the funds into the service providers account has failed.  You can assume there are no other causes of failure (e.g. communications, device failure).
 
 Design and build the payment service - responses from credit card issuers can be faked or randomised.
 
-Design and build the API used between the app and the payment service.  As you will be taking credit card details this API needs to be secure as does the transport of data.  The choice of API security technique is left to you.  However, transport must be secured to AES-256 standard - in both directions.
+Design and build the API used between the app and the payment service.  As you will be taking credit card details this API needs to be secure, as does the transport of data.  The choice of API security technique is left to you.  However, transport must be secured to AES-256 standard - in both directions.
 
-As an additional complication - the API needs to be versioned.
+As an additional complication - the payment API itself needs to be versioned, so that systems using the API are not affected by breaking changes made in other versions.
