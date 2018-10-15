@@ -1,4 +1,5 @@
 # Inventory
+> An inventory service for the in-resort app
 
 TUI have an in-resort app that can be downloaded by its customers.  This app allows our customers to book and pay for any of the additional services and products we offer at our hotels.
 

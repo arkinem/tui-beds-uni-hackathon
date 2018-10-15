@@ -1,4 +1,5 @@
 # Payment
+> A payment service for the in-resort app
 
 TUI have an in-resort app that can be downloaded by its customers.  This app allows our customers to book and pay for any of the additional services and products we offer at our hotels.
 
@@ -18,7 +19,7 @@ Code | Name                                    | Price   | Availability
 
 You have been asked to implement a payment service for the app.  This service is API-driven.
 
-Your service needs to request the credit card details of the customer within the app.  Send those (securely) over to the payment service.  
+Your service needs to request the credit card details of the customer within the app.  Send those (securely) over to the payment service.
 
 The payment service will then contact the credit card issuer for authorisation.  All credit card issuers respond with one of 2 responses:
 

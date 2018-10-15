@@ -1,10 +1,11 @@
-# Appointment
+# A load of bull
+> A game designed to limit customer's contact with the rep
 
 TUI have an in-resort app that can be downloaded by its customers.  This app allows our customers to book and pay for any of the additional services and products we offer at our hotels.
 
 One of the services the app allows customers to book is an appointment with one of our in-resort representatives - or reps.
 
-This feature has proven so popular that the resort team at head office have had to devise a way to limit the number of appointments booked via this method.  On checkout within the app - the customer is required to play a game of Bulls & Cows (https://en.wikipedia.org/wiki/Bulls_and_Cows) - a precursor to the highly popular board game `mastermind`.  
+This feature has proven so popular that the resort team at head office have had to devise a way to limit the number of appointments booked via this method.  On checkout within the app - the customer is required to play a game of Bulls & Cows (https://en.wikipedia.org/wiki/Bulls_and_Cows) - a precursor to the highly popular board game `mastermind`.
 
 If the customer cracks the hidden code in 6 or less guesses they are allowed to continue to book an appointment.  Otherwise, they cannot book an appointment.  Of course, the customer can just keep trying if they choose!
 
@@ -12,7 +13,7 @@ You have been requested to implement the game.
 
 ## Bulls & Cows
 
-The game is for 2 players (in our version anyway) - the code setter (the app in this case) and the code breaker (our customer).  At the start of the game the code setter generates a random 4 digit number - repeating numbers are allowed.  The code breaker then gets as many guesses as it takes for them to crack the code.  
+The game is for 2 players (in our version anyway) - the code setter (the app in this case) and the code breaker (our customer).  At the start of the game the code setter generates a random 4 digit number - repeating numbers are allowed.  The code breaker then gets as many guesses as it takes for them to crack the code.
 
 After each guess the code setter gives the code breaker feedback as to how many Bulls (correct number in the correct position) and Cows (correct number, but incorrect position) they have guessed.  The game is over when the code breaker receives '4 Bulls, 0 Cows' from their guess.
 
