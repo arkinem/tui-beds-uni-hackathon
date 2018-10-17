@@ -7,6 +7,6 @@ The head office team said that they have a live feed of all of the booking order
 
 You have been asked to create this interactive art piece.
 
-## Feed details
 
-TBC - But will be released shortly before the hackathon. It will be a constrant stream of data / events that can be subscribed to through an API. The hotel details, locations and positions around the world will also be held in the available TUI meta-data catalog.
+## API Details
+- See - [https://github.com/dangarfield/tui-bedfordshire-hackathon-pubsub-server](https://github.com/dangarfield/tui-bedfordshire-hackathon-pubsub-server)
