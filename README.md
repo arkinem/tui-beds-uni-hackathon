@@ -15,12 +15,16 @@ Happy hacking!
 # Example scenarios
 ### Oh, Bugger - [Scenarios Details](scenarios/oh-bugger.md)
 > Identifying photos of beetles so that customers can find the most elusive and rare specimens
+
 ### Check the rep - [Scenarios Details](scenarios/check-the-rep.md)
 > Effective communication between customers and their holiday rep
+
 ### Where next? - [Scenarios Details](scenarios/where-next.md)
 > A digital art piece showcasing the live bookings made by TUI customers all over the world
+
 ### Where's my child?! - [Scenarios Details](scenarios/wheres-my-child.md)
 > Check-in and monitoring system for parents with kids in activities
+
 ### You talking to me?! - [Scenarios Details](scenarios/you-talking-to-me.md)
 > Personalised digital signage that only shows adverts relevent to those passing by
 
@@ -29,8 +33,10 @@ Happy hacking!
 
 ### Checkout - [Scenarios Details](scenarios/checkout.md)
 > A checkout service for the in-resort app
+
 ### Inventory - [Scenarios Details](scenarios/inventory.md)
 > An inventory service for the in-resort app
+
 ### Payment - [Scenarios Details](scenarios/payment.md)
 > A payment service for the in-resort app
 
@@ -61,5 +67,3 @@ For those adventurous, talented, exceptional, or plain crazy - the following sce
 * checkout + inventory + payment
 
 Another option is for multiple teams to work together on all 3 of these scenarios, providing a seamless integration between them and offer a single - unified - solution.
-
-
