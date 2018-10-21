@@ -13,31 +13,31 @@ It is perfectly acceptable (even desirable) for some of the elements in your sol
 Happy hacking!
 
 # Example scenarios
-### Oh, Bugger - [Scenarios Details](scenarios/oh-bugger.md)
+### Oh, Bugger - [Scenario Details](scenarios/oh-bugger.md)
 > Identifying photos of beetles so that customers can find the most elusive and rare specimens
 
-### Check the rep - [Scenarios Details](scenarios/check-the-rep.md)
+### Check the rep - [Scenario Details](scenarios/check-the-rep.md)
 > Effective communication between customers and their holiday rep
 
-### Where next? - [Scenarios Details](scenarios/where-next.md)
+### Where next? - [Scenario Details](scenarios/where-next.md)
 > A digital art piece showcasing the live bookings made by TUI customers all over the world
 
-### Where's my child?! - [Scenarios Details](scenarios/wheres-my-child.md)
+### Where's my child?! - [Scenario Details](scenarios/wheres-my-child.md)
 > Check-in and monitoring system for parents with kids in activities
 
-### You talking to me?! - [Scenarios Details](scenarios/you-talking-to-me.md)
+### You talking to me?! - [Scenario Details](scenarios/you-talking-to-me.md)
 > Personalised digital signage that only shows adverts relevent to those passing by
 
-### A load of bull - [Scenarios Details](scenarios/a-load-of-bull.md)
+### A load of bull - [Scenario Details](scenarios/a-load-of-bull.md)
 > A game designed to limit customer's contact with the rep
 
-### Checkout - [Scenarios Details](scenarios/checkout.md)
+### Checkout - [Scenario Details](scenarios/checkout.md)
 > A checkout service for the in-resort app
 
-### Inventory - [Scenarios Details](scenarios/inventory.md)
+### Inventory - [Scenario Details](scenarios/inventory.md)
 > An inventory service for the in-resort app
 
-### Payment - [Scenarios Details](scenarios/payment.md)
+### Payment - [Scenario Details](scenarios/payment.md)
 > A payment service for the in-resort app
 
 
