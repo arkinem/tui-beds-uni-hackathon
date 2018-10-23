@@ -6,3 +6,5 @@ TUI resort locations around the world have some of the most amazing, varied and 
 Keen to come to the assistance of these anthropodic-adventurers, one of the TUI directors has requested that you create a program that identifies beetles based off of photographs taken of them so that customers can brag about all of the elusive wildlife that they have spotted!
 
 Maybe this could even be gamified to encourage others to join...
+
+Some example images to you for your comparison can be found in this [beetle image classification library](https://github.com/dangarfield/beetle-image-classification)
