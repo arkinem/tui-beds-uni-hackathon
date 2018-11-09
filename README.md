@@ -67,3 +67,5 @@ For those adventurous, talented, exceptional, or plain crazy - the following sce
 * checkout + inventory + payment
 
 Another option is for multiple teams to work together on all 3 of these scenarios, providing a seamless integration between them and offer a single - unified - solution.
+
+![We're Hiring!](https://github.com/gclssvglx/tui-beds-uni-hackathon/hiring.png "We're Hiring!")
